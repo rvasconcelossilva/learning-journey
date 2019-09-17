@@ -1,6 +1,4 @@
-# Installing Scala on Visual Code
-
-# Scala 
+# How to use Scala on Visual Code
 
 Setting up the java 11 on Windows 10 
 
