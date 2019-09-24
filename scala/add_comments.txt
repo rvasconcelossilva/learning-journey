@@ -1,0 +1,27 @@
+#sbt main commands
+
+https://www.scala-sbt.org/1.x/docs/sbt-by-example.html
+
+To execute code using scala in sbt console, you need to type console and the you can put your code. The below link has more information.
+https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+
+Other option and for me easier, is to have one Main Scala Object as the below example and then execute the the run command in sbt console
+object Main extends App {
+  println(Lists.max(List(1,3,2)))
+}
+
+
+# Things to do 
+
+Help them doing some changes in: https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+	1. which means each operator
+	
+
+Books: Structure and Interpretation of Computer Programs Harol Abelson
+	   Programming in Scala Martin Odersky
+	   
+
+I used the below site as references to confirm my coding and also help me to solve the exercises 3
+
+http://shirleyisnotageek.blogspot.com/2015/08/scala-note-1-pascals-triangle.html
+https://gist.github.com/ngocdaothanh/3764694

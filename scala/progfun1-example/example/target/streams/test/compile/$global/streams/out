@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\scala\progfun1-example\example\src\test\scala\example\ListsSuite.scala:40:3: Missing closing brace `}' assumed here[0m
+[0m[[0m[31merror[0m] [0m[0m  test("one plus one is two")(assert(1 + 1 == 2))[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m

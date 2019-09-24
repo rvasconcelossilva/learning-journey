@@ -1,0 +1,23 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\scala\progfun1-example\example\src\main\scala\example\Lists.scala:28:21: not enough arguments for method count: (p: Int => Boolean)Int.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter p.[0m
+[0m[[0m[31merror[0m] [0m[0m        if (xs.count() == xs.distinct.count()) {[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\scala\progfun1-example\example\src\main\scala\example\Lists.scala:28:44: not enough arguments for method count: (p: Int => Boolean)Int.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter p.[0m
+[0m[[0m[31merror[0m] [0m[0m        if (xs.count() == xs.distinct.count()) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\scala\progfun1-example\example\src\main\scala\example\Lists.scala:30:17: value unary_! is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m            if (!xs.sum = 0) {[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\scala\progfun1-example\example\src\main\scala\example\Lists.scala:67:19: not enough arguments for method count: (p: Int => Boolean)Int.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter p.[0m
+[0m[[0m[31merror[0m] [0m[0m      if (xs.count() == xs.distinct.count()) {[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\scala\progfun1-example\example\src\main\scala\example\Lists.scala:67:42: not enough arguments for method count: (p: Int => Boolean)Int.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter p.[0m
+[0m[[0m[31merror[0m] [0m[0m      if (xs.count() == xs.distinct.count()) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\scala\progfun1-example\example\src\main\scala\example\Lists.scala:69:15: value unary_! is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m          if (!xs.sum = 0) {[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

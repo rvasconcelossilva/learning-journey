@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mListsSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one plus one is two[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one plus one is two - 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- details why one plus one is not three[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- intNotZero throws an exception if its argument is 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sum of a few numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- sum of a few numbers - is not equal *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  17 did not equal 3 (ListsSuite.scala:122)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- sum - list is empty *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.lang.Exception was thrown (ListsSuite.scala:126)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- sum - elements equal 0 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.lang.Exception was thrown (ListsSuite.scala:132)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- sum - there is negative elements *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.lang.Exception was thrown (ListsSuite.scala:138)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- sum - there is duplicate elements *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.lang.Exception was thrown (ListsSuite.scala:144)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- max of a few numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- max - list is empty *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.util.NoSuchElementException was thrown (ListsSuite.scala:154)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- max - elements equal 0 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.lang.Exception was thrown (ListsSuite.scala:160)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- max - there is negative elements *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.util.NoSuchElementException was thrown (ListsSuite.scala:166)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- max - there is duplicated elements *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected exception java.lang.IllegalArgumentException to be thrown, but java.lang.Exception was thrown (ListsSuite.scala:172)[0m[0m
