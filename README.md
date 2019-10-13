@@ -2,13 +2,17 @@
 
 This repository contains the technologies and sample of solutions that I developed in my journey to get more skills in data. Currently, I have experience in T-SQL, Microsoft SQL Server, SQL Server Integration Services and Power BI, and my goal is to get more experience in Scala, Apache Spark and Google Cloud Services.
 
+# Python
+
+In this project contains applications to practice my knowlodege in Python integrated with others technologies such as API's, Cloud and Spark.
+
 # scala
 
-In this project contains solution of exerises of the below trainings and the focus is to learn syntax and the structure of Scala.
+This project contains solution of exerises of the below trainings and the focus is to learn syntax and the structure of Scala.
 
 # spark-projects
 
-This project is to focus on Spark technology using Scala. I choose to work with Scala instead of Java or Python because of looking at the Data Engineer market plus the integration of this language with the other platforms I think there is a good fit.
+This project is to focus on Spark technology using Scala or Python. I choose to work with Scala instead of Java or Python because of looking at the Data Engineer market plus the integration of this language with the other platforms I think there is a good fit.
 
 # Google Cloud, AWS and Azure
 
