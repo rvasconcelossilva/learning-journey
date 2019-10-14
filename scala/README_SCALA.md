@@ -45,6 +45,10 @@ Installing IntelliJ and Scala Plug in
 4. Hit Plugins
 4. Type Scala and click on Install
 
+#Setting up the environment on Mac
+
+I will update this document once I have completed the Functional Programming Principles in Scala, Functional Program Design, Parallel Programming and Big Data Analyses with Scala and Spark.
+
 WELL DONE! ALL THE REQUIRED TOOLS AND FRAMEWORKS TO START DEVELOPING ON WINDOWS IN SCALA ARE READY.
 
 

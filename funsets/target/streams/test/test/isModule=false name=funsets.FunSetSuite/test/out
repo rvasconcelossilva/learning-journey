@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFunSetSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- contains is implemented[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- union contains all elements of each set *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  FunSets.contains($anon.this.s, 1) was false Union 1 (FunSetSuite.scala:107)[0m[0m

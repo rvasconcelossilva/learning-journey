@@ -1,6 +1,6 @@
 # Learning Journey
 
-This repository contains the technologies and sample of solutions that I developed in my journey to get more skills in data. Currently, I have experience in T-SQL, Microsoft SQL Server, SQL Server Integration Services and Power BI, and my goal is to get more experience in Scala, Apache Spark and Google Cloud Services.
+This repository contains the technologies and sample of solutions that I developed in my journey to get more skills in data. Currently, I have experience in SQL, Microsoft SQL Server, SQL Server Integration Services and Power BI, and my goal is to get more experience in Scala, Apache Spark and Google Cloud Services, AWS and Azure which I worked embedding Power BI in webapplications and used Azure SQL Server.
 
 # scala
 

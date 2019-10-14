@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="submission">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/progfun1-example/example/submission.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

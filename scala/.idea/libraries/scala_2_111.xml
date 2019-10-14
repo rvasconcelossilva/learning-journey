@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="scala-2.111">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/progfun1-example/example/target/scala-2.11/progfun1-example_2.11-0.1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/progfun1-example/example/target/scala-2.11/submission.zip!/" />
+      <root url="jar://$PROJECT_DIR$/progfun1-example/example/target/scala-2.11/progfun1-example_2.11-0.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
