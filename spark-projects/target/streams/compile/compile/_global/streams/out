@@ -1,9 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\vascora\Desktop\study\learning-journey\spark-projects\src\main\scala\FirstQuery.scala:8:73: overloaded method value config with alternatives:[0m
-[0m[[0m[31merror[0m] [0m[0m  (key: String,value: Boolean)org.apache.spark.sql.SparkSession.Builder <and>[0m
-[0m[[0m[31merror[0m] [0m[0m  (key: String,value: Double)org.apache.spark.sql.SparkSession.Builder <and>[0m
-[0m[[0m[31merror[0m] [0m[0m  (key: String,value: Long)org.apache.spark.sql.SparkSession.Builder <and>[0m
-[0m[[0m[31merror[0m] [0m[0m  (key: String,value: String)org.apache.spark.sql.SparkSession.Builder[0m
-[0m[[0m[31merror[0m] [0m[0m cannot be applied to (org.apache.spark.SparkConf, String)[0m
-[0m[[0m[31merror[0m] [0m[0m  val spark = SparkSession.builder().appName("Spark SQL basic example").config(conf, "some-value").getOrCreate()[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                        ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
