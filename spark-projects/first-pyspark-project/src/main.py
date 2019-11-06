@@ -1,10 +1,11 @@
 from core.config import Config
-import requests # package to manipulate api
-import rootpath # package to identify the root directory
 from pyspark.sql.session import SparkSession
 from pyspark.context import SparkContext
-import json
 from brazil_league.brazil_league_queries import get_brazilian_leagues
+import requests # package to manipulate api
+import rootpath # package to identify the root directory
+import json #packge to handle jason files
+
 
 
 path = rootpath.detect()
