@@ -209,7 +209,6 @@ def getBrazilianLeagues(season=''):
     tp = dfType.alias('tp')
 
     ch.join(ss, ch.id == ss.id).join(tp, ch.id == tp.id).groupby('championship', 'type').count().orderBy('type').show()
-
     #+----------------+------+-----+
     #|    championship|  type|count|
     #+----------------+------+-----+
